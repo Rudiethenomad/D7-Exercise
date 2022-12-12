@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+
+}
+main{
+   
+}
+.header{
+    display:flex;
+    height: 20vh;
+}
+.featured_box{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: left;
+    height: 50vh;
+}
